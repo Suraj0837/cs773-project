@@ -1,6 +1,8 @@
-folder /t1 was used to conduct experiments, inside it theres a load folder, which has the 3 types of scrits we used to perform load testing.
-folder /t2 was used to play around while we approached the design of detector from different angles.
-folder /t3 has the final detector code.
+Folder /t1 was used to conduct experiments, inside it theres a load folder, which has the 3 types of scrits we used to perform load testing.
+
+Folder /t2 was used to play around while we approached the design of detector from different angles.
+
+Folder /t3 has the final detector code.
 
 To compile any of the code that has papi Api you need to use "-lpapi" to link the library.
 
